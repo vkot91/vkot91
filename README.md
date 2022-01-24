@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vkot91
+- 👀 I’m interested in front-end development :)
+- 🌱 I’m currently learning GraphQL and NestJS
